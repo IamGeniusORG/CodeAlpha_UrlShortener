@@ -1,0 +1,16 @@
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+urls.db
+.pytest_cache/
+.vscode/
+
+instance/
+Edits/
+Bugs/
+.DS_Store
